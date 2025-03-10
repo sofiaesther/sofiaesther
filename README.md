@@ -1,5 +1,4 @@
-# 💫 About Me:
-💻 Full Stack Dev;<br>📚 Geospatial Engineer graduated by Universidade do Porto;<br>🌱 I'm currently studying to become a better Full Stack Dev at Driven Education;<br>🦩 I'm also a classical Ballet dancer;
+💻 Full Stack Dev;<br>
 
 
 ## 🌐 Socials:
